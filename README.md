@@ -1,1 +1,1 @@
-# this is password generator app 
+# This is password generator app 
